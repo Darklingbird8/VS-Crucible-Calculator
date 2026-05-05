@@ -1,3 +1,4 @@
+package src;
 public class RecipeInput {
   Metal metal;
   int amount;

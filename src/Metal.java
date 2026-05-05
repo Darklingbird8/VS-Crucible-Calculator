@@ -1,3 +1,4 @@
+package src;
 public class Metal extends Item {
 
   int meltingPoint;
